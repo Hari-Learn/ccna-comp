@@ -1,4 +1,4 @@
-import RouterSimulator from "./comp/RouterSimulator"
+import RouterSimulator1 from "./comp/RouterSimulator1"
 
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <>
   
       <h1>Vite + React</h1>
-     <RouterSimulator></RouterSimulator>
+     <RouterSimulator1></RouterSimulator1>
     </>
   )
 }
