@@ -7,3 +7,5 @@ for(let i = 0;i<=x.length-1;i++){
     }
 }
 console.log(dup)
+const uni = [...new Set(x)]
+console.log(uni)
